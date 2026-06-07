@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Bhavana Khandelwal 👋
 
-<!--
-**Bhavana-2804/Bhavana-2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence) @ Banasthali Vidyapith  
+📍 Rajasthan, India  
+🔨 Currently building: **Prescripto** (MERN Stack)  
+🌱 Learning: FastAPI, Pandas, System Design  
+💡 Interested in: Full Stack Development, AI/ML, Open Source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** C, C++, Python, Java, JavaScript  
+**Frontend:** React, Vite, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express.js, FastAPI  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+**AI/ML:** NumPy, Pandas, TensorFlow  
+
+---
+
+## 🚀 Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| [Prescripto](https://github.com/Bhavana-2804/prescripto) | MERN Stack | Full-stack doctor appointment booking system |
+
+---
+
+## 📊 GitHub Stats
+
+![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana-2804&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bhavana-khandelwal28)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Bhavana-2804)
+📧 bhavanakhandelwal2005@gmail.com
