@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana-2804&show_icons=true&theme=tokyonight)
+![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana-2804&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
